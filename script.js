@@ -5,6 +5,7 @@ var game = document.getElementById("game");
 var counter = 0;
 var currentBlocks = [];
 
+alert("Use the arrow keys");
 
 function moveLeft(){
     
